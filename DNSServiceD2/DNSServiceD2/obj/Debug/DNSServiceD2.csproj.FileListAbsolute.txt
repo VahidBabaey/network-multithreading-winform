@@ -1,0 +1,13 @@
+D:\project\DNSServiceD2\DNSServiceD2\bin\Debug\DNSServiceD2.exe.config
+D:\project\Network\DNSServiceD2\DNSServiceD2\bin\Debug\DNSServiceD2.exe.config
+D:\project\Network\DNSServiceD2\DNSServiceD2\obj\Debug\DNSServiceD2.csprojResolveAssemblyReference.cache
+D:\project\Network\DNSServiceD2\DNSServiceD2\bin\Debug\DNSServiceD2.exe
+D:\project\Network\DNSServiceD2\DNSServiceD2\bin\Debug\DNSServiceD2.pdb
+D:\project\Network\DNSServiceD2\DNSServiceD2\obj\Debug\DNSServiceD2.exe
+D:\project\Network\DNSServiceD2\DNSServiceD2\obj\Debug\DNSServiceD2.pdb
+F:\project\Network\DNSServiceD2\DNSServiceD2\bin\Debug\DNSServiceD2.exe.config
+F:\project\Network\DNSServiceD2\DNSServiceD2\obj\Debug\DNSServiceD2.exe
+F:\project\Network\DNSServiceD2\DNSServiceD2\obj\Debug\DNSServiceD2.pdb
+E:\project\Network\DNSServiceD2\DNSServiceD2\bin\Debug\DNSServiceD2.exe.config
+E:\project\Network\DNSServiceD2\DNSServiceD2\obj\Debug\DNSServiceD2.exe
+E:\project\Network\DNSServiceD2\DNSServiceD2\obj\Debug\DNSServiceD2.pdb

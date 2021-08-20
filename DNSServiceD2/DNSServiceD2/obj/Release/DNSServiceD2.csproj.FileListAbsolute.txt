@@ -1,0 +1,6 @@
+E:\project\Network\DNSServiceD2\DNSServiceD2\bin\Release\DNSServiceD2.exe.config
+E:\project\Network\DNSServiceD2\DNSServiceD2\bin\Release\DNSServiceD2.exe
+E:\project\Network\DNSServiceD2\DNSServiceD2\bin\Release\DNSServiceD2.pdb
+E:\project\Network\DNSServiceD2\DNSServiceD2\obj\Release\DNSServiceD2.csprojResolveAssemblyReference.cache
+E:\project\Network\DNSServiceD2\DNSServiceD2\obj\Release\DNSServiceD2.exe
+E:\project\Network\DNSServiceD2\DNSServiceD2\obj\Release\DNSServiceD2.pdb

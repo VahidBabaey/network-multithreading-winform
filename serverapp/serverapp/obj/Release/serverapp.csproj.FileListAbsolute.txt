@@ -1,0 +1,9 @@
+D:\project\Network\serverapp\serverapp\bin\Release\serverapp.exe.config
+D:\project\Network\serverapp\serverapp\bin\Release\serverapp.exe
+D:\project\Network\serverapp\serverapp\bin\Release\serverapp.pdb
+D:\project\Network\serverapp\serverapp\obj\Release\serverapp.csprojResolveAssemblyReference.cache
+D:\project\Network\serverapp\serverapp\obj\Release\serverapp.Form1.resources
+D:\project\Network\serverapp\serverapp\obj\Release\serverapp.Properties.Resources.resources
+D:\project\Network\serverapp\serverapp\obj\Release\serverapp.csproj.GenerateResource.Cache
+D:\project\Network\serverapp\serverapp\obj\Release\serverapp.exe
+D:\project\Network\serverapp\serverapp\obj\Release\serverapp.pdb
